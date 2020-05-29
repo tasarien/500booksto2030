@@ -1,0 +1,31 @@
+:root {
+  --jet: #353238;
+  --dutch-white: #d7c9aa;
+  --liver: #7b2d26;
+  --cultured: ivory;
+  --font-color: #0c0a11;
+
+  --gold: #F8A934;
+  --blue: #296092;
+
+  --arvo: 'Arvo', serif;
+  --unifraktur: 'UnifrakturCook', cursive;
+  --cinzel: 'Cinzel Decorative', cursive;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--dutch-white);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
